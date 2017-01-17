@@ -1,0 +1,7 @@
+{
+  "name": "EmployeeName",
+  "id": 123,
+  "age": 23,
+  "gender": "Male",
+  "phoneNumber": 9876543210
+}

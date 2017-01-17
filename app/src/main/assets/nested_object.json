@@ -1,0 +1,8 @@
+{
+  "title": "A Good Coder",
+  "isbn": "AD47J59K",
+  "author": {
+    "id": 1111,
+    "name": "Author Name"
+  }
+}
